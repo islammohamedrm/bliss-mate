@@ -1,6 +1,6 @@
 # eslam_project
 
-A new Flutter project.
+A new Flutter project. it was my graduation project from college
 
 ## Getting Started
 
